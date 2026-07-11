@@ -63,7 +63,7 @@ Developed as an Object-Oriented Programming (OOP) Capstone Project at UPES.
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ### Admin Analytics
-![Admin Analytics](screenshots/admin-analytics-dashboard.png)
+![Admin Analytics](screenshots/admin-analytics.png)
 
 ### Admin Messages
 ![Admin Messages](screenshots/admin-messages.png)
